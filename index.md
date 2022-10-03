@@ -1,4 +1,4 @@
-[HOME](https://github.com/sherlockjack/os222/blob/master/index.md) | [LOG](TXT/mylog.txt) | [LINKS](https://github.com/sherlockjack/os222blob/master/LINKS) | [TARBALL](https://os.vlsm.org/Log/sherlockjack.tar.bz2.txt) | [GITHUB](https://github.com/sherlockjack/os222/)
+[HOME](https://github.com/majidrajendrarahmat/os222/blob/main/index.md) | [LOG](TXT/mylog.txt) | [LINKS](https://github.com/sherlockjack/os222blob/master/LINKS) | [TARBALL](https://os.vlsm.org/Log/sherlockjack.tar.bz2.txt) | [GITHUB](https://github.com/sherlockjack/os222/)
 
 # Operating Systems 2022-2
 
