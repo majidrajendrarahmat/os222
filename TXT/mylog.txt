@@ -9,21 +9,6 @@ ZCZC  W00  10 L05  QUIZ
 ZCZC  W00  20 L06  References/Books/Documents/Browsing/GSGS related
 ZCZC  W00  180 L09  Assignment #00 (Reading)
 ZCZC  W00  10 L41  TXT/mylog.txt related
-<<<<<<< HEAD
-ZCZC  W01  20 L01 SCELE/Discord related
-ZCZC  W01  200 L02 ZOOM meetings related
-ZCZC  W01  10 L03 GitHub related
-ZCZC  W01  10 L05 Quiz week 01
-ZCZC  W01  240 L09 Assignment #01
-ZCZC  W01  180 L31 Installing VirtualBox, Putty, WinSCP
-ZCZC  W01  10 L41 Updating TXT/mylog.txt for W01 
-ZCZC  W02  20 L01 SCELE/Discord related
-ZCZC  W02  200 L02  ZOOM meetings related
-ZCZC  W02  10 L03  GitHub related
-ZCZC  W02  10 L05 Quiz week 02
-ZCZC  W02  240 L09 Assignment #02
-ZCZC  W02  60 L26 Generating GPG key
-=======
 ZCZC  W01  20 L01  SCELE/Discord related
 ZCZC  W01  200 L02  ZOOM meetings related 
 ZCZC  W01  10 L03  GitHub related 
@@ -37,10 +22,16 @@ ZCZC  W02  10 L03  Github related
 ZCZC  W02  10 L05  Quiz week 02
 ZCZC  W02  240 L09  Assignment #02
 ZCZC  W02  60 L26  Generating GPG key
->>>>>>> 6e89546 (Fixing push bug)
 ZCZC  W03  20 L01  SCELE/Discord related
 ZCZC  W03  200 L02  ZOOM and OFFLINE meetings related
 ZCZC  W03  20 L03  GitHub related
 ZCZC  W03  20 L05  Quiz week 03
 ZCZC  W03  200 L09  Assignment #03
 ZCZC  W03  10 L41  TXT/mylog.txt related
+ZCZC  W04  20 L01  SCELE/Discord related
+ZCZC  W04  200 L02  ZOOM and OFFLINE meetings related
+ZCZC  W04  20 L03  GitHub related
+ZCZC  W04  20 L05  Quiz Week 04
+ZCZC  W04  200 L09  Assignment #04
+ZCZC  W04  40 L26  Encrypting for Pop Quiz
+ZCZC  W04  10 L41  TXT/mylog.txt related
