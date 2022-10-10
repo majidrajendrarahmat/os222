@@ -5,6 +5,7 @@ permalink: LINKS/
 [Niagahoster]: https://www.niagahoster.co.id/blog/git-tutorial-dasar/
 [javatpoint]: https://www.javatpoint.com/linux-tutorial
 [W3Schools]: https://www.w3schools.com/c/index.php
+[gfg]: https://www.geeksforgeeks.org/paging-in-operating-system/
 
 # LINKS
 
@@ -23,3 +24,7 @@ Mother of all tutorials.
 ## Week 04
 1. [W3Schools] <br>
 A place to learn C.
+
+## Week 04
+1. [gfg] <br>
+It has helped me understand the concept of paging.
