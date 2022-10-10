@@ -35,3 +35,9 @@ ZCZC  W04  20 L05  Quiz Week 04
 ZCZC  W04  200 L09  Assignment #04
 ZCZC  W04  40 L26  Encrypting for Pop Quiz
 ZCZC  W04  10 L41  TXT/mylog.txt related
+ZCZC  W05  20 SCELE/Discord related
+ZCZC  W05  200 L02  ZOOM and OFFLINE meetings related
+ZCZC  W05  20 L03  Github related
+ZCZC  W05  20 L05  Quiz Week 05
+ZCZC  W05  300 L09  Assignment #05
+ZCZC  W05  10 L41  TXT/mylog.txt related
