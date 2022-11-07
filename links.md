@@ -6,6 +6,7 @@ permalink: LINKS/
 [javatpoint]: https://www.javatpoint.com/linux-tutorial
 [W3Schools]: https://www.w3schools.com/c/index.php
 [gfg]: https://www.geeksforgeeks.org/paging-in-operating-system/
+[chope]: https://www.geeksforgeeks.org/fork-system-call/
 
 # LINKS
 
@@ -25,6 +26,10 @@ Mother of all tutorials.
 1. [W3Schools] <br>
 A place to learn C.
 
-## Week 04
+## Week 05
 1. [gfg] <br>
 It has helped me understand the concept of paging.
+
+## Week 06
+1. [chope] <br>
+A brief explanation on how forking works.
