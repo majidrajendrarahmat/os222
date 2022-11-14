@@ -7,29 +7,27 @@ permalink: LINKS/
 [W3Schools]: https://www.w3schools.com/c/index.php
 [gfg]: https://www.geeksforgeeks.org/paging-in-operating-system/
 [chope]: https://www.geeksforgeeks.org/fork-system-call/
+[guru99]: https://www.guru99.com/deadlock-in-operating-system.html
 
 # LINKS
 
-## Week 01
-1. [Niagahoster] <br>
+[Niagahoster] <br>
 A good reference website.
 
-## Week 02
-1.[Linuxhint]<br>
+[Linuxhint]<br>
 I had trouble with moving directories before this website came.
 
-## Week 03
-1. [javatpoint] <br>
+[javatpoint] <br>
 Mother of all tutorials.
 
-## Week 04
-1. [W3Schools] <br>
+[W3Schools] <br>
 A place to learn C.
 
-## Week 05
-1. [gfg] <br>
+[gfg] <br>
 It has helped me understand the concept of paging.
 
-## Week 06
-1. [chope] <br>
+[chope] <br>
 A brief explanation on how forking works.
+
+[guru99] <br>
+Gives a detailed understanding of the deadlocking concept.
