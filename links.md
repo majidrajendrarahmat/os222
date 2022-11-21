@@ -8,6 +8,7 @@ permalink: LINKS/
 [gfg]: https://www.geeksforgeeks.org/paging-in-operating-system/
 [chope]: https://www.geeksforgeeks.org/fork-system-call/
 [guru99]: https://www.guru99.com/deadlock-in-operating-system.html
+[geeksforgeeks]: https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/
 
 # LINKS
 
@@ -31,3 +32,6 @@ A brief explanation on how forking works.
 
 [guru99] <br>
 Gives a detailed understanding of the deadlocking concept.
+
+[geeksforgeeks] <br>
+Details regarding CPU Scheduling in Operating Systems.
