@@ -53,3 +53,9 @@ ZCZC  W07  20 L03  Github related
 ZCZC  W07  20 L05  Quiz Week 07
 ZCZC  W07  300 L09  Assignment #07
 ZCZC  W07  10 L41  TXT/mylog.txt related
+ZCZC  W08  20 L01  SCELE/Discord Related
+ZCZC  W08  200 L02  ZOOM and OFFLINE meetings related
+ZCZC  W08  20 L03  Github related
+ZCZC  W08  20 L05  Quiz Week 08
+ZCZC  W08  900 L09  Assignment #08
+ZCZC  W08  10 L41  TXT/mylog.txt related
