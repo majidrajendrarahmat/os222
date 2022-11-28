@@ -9,6 +9,7 @@ permalink: LINKS/
 [chope]: https://www.geeksforgeeks.org/fork-system-call/
 [guru99]: https://www.guru99.com/deadlock-in-operating-system.html
 [geeksforgeeks]: https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/
+[prep]: https://www.prepressure.com/library/technology/raid
 
 # LINKS
 
@@ -35,3 +36,6 @@ Gives a detailed understanding of the deadlocking concept.
 
 [geeksforgeeks] <br>
 Details regarding CPU Scheduling in Operating Systems.
+
+[prep] <br>
+A detailed article about RAID.
